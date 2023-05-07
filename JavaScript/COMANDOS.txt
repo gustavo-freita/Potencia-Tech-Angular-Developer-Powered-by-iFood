@@ -1,0 +1,35 @@
+console.log = para imprimir coisas no terminal o que esta dentro.
+EX:
+    console.log("Hello Word");
+
+let = é uma variavel que eu mudar o valor dela.
+EX:
+    let variavel = 10;
+
+const = é uma variavel que não pode mudar o valor dela. 
+EX:
+    const pi = 3.14;
+
+Math.pow = faz parte da biblioteca de funções matematicas
+EX:
+    Math.pow(altura,2);
+
+function = Um treço de codigo que ira rodar quantas vezes for chamado.
+EX 1: 
+    function sayMyName(name) {
+        console.log('Your name is: ' + name);
+    }
+
+    sayMyName('Gustavo');
+
+EX 2: 
+    function incrementarJuros(valor, percentualJuros) {
+        const valorDeAcrecimo = (percentualJuros / 100) * valor;
+        return valor + valorDeAcrecimo; 
+    }
+
+    console.log(incrementarJuros(100, 10));
+
+OBEJETO é uma estrutura dinamica de chave e valor e dentro desses valores podem ter funções.
+
+ClASS é a definição do que deve ser aquele objeto e INSTANCIA é um ocorrencia do objeto.
