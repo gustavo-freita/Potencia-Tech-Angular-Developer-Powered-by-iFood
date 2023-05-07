@@ -25,7 +25,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">1</td>
 			<td>Tempo Estimado de Entrega</td>
 			<td>
-				<a href="https://github.com/ANACAPELETTI/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20Iniciais%20PY%20-%20Unimed-BH/duasTorres.py">
+				<a href="https://github.com/gustavo-freita/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/Desafios%20-%20JavaScript/tempoEstimadoDeEntrega.js">
 					Código
 				</a>
 			</td>
@@ -35,7 +35,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">2</td>
 			<td>Calcular o Preço Final de um Pedido</td>
 			<td>
-				<a href="https://github.com/ANACAPELETTI/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20Iniciais%20PY%20-%20Unimed-BH/cachorroQuente.py">
+				<a href="https://github.com/gustavo-freita/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/Desafios%20-%20JavaScript/calculandoPrecoFinalDeUmPedido.js">
 					Código
 				</a>
 			</td>
@@ -45,7 +45,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">3</td>
 			<td>Ganhe uma Sobremesa Especial</td>
 			<td>
-				<a href="https://github.com/ANACAPELETTI/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20Iniciais%20PY%20-%20Unimed-BH/calculoViagem.py">
+				<a href="https://github.com/gustavo-freita/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/Desafios%20-%20JavaScript/ganheUmaSobremesaEspecial.js">
 					Código
 				</a>
 			</td>
@@ -55,7 +55,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">4</td>
 			<td>Identificando Pedidos Veganos</td>
 			<td>
-				<a href="https://github.com/ANACAPELETTI/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20Iniciais%20PY%20-%20Unimed-BH/calculoViagem.py">
+				<a href="https://github.com/gustavo-freita/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/Desafios%20-%20JavaScript/identificandoPedidosVeganos.js">
 					Código
 				</a>
 			</td>
@@ -65,7 +65,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">5</td>
 			<td>Gerenciamento de Pedidos de Comida Online</td>
 			<td>
-				<a href="https://github.com/ANACAPELETTI/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20Iniciais%20PY%20-%20Unimed-BH/calculoViagem.py">
+				<a href="https://github.com/gustavo-freita/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/Desafios%20-%20JavaScript/gerenciamentoDePedidosDeComidaOnline.js">
 					Código
 				</a>
 			</td>
