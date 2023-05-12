@@ -50,3 +50,58 @@ dados.pop();
 //DATAS - permite amarzenar data e hora
 let aniversario: Date = new Date("2022-12-01 21:00");
 console.log(aniversario.toString());
+
+//FUNÇÕES - você copnsegue tipar as funções, 
+
+function addNumber(x: number, y: number): number {
+    return x +y;
+}
+let soma: number = addNumber(4, 7);
+
+function callToPhone(phone: number | string): number | string {
+    return phone;
+}
+
+async function getDatabase(id: number): Promise<string> {
+    return "felipe";
+}
+//interfaces (type x interface)
+type robot = {
+    readonly id: number | string;
+    name: string;
+};
+
+interface robot2 {
+    readonly id: number | string;
+    name: string;
+}
+
+const bot: robot = {
+    id: 1,
+    name: "megamen",
+};
+
+//CLASSES
+// DATA MODIFIERS - public, private, protected 
+class Character {
+    name: string;
+    stregth: number;
+    skill: number;
+
+    constructor(name: string, stregth: number, skill: number) {
+        this.name = name;
+        this.stregth = stregth;
+        this.skill = skill;
+
+    }
+
+    attack(): void {
+        console.log(`Attack with ${this.stregth}points`);
+    }
+}
+
+const p1 = new Character("Chunchunmarum", 15, 35);
+console.log(p1);
+
+
+
