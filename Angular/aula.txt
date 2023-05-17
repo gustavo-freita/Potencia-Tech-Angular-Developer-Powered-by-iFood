@@ -1,0 +1,2 @@
+Todo os arquivos fora da pasta SRC são arquivos de configuração.
+E os arquivos dentro da pasta SRC são aquivos de código do projeto mesmo.
