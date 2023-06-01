@@ -25,7 +25,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">1</td>
 			<td>DIO Delivery</td>
 			<td>
-				<a href="">
+				<a href="https://github.com/gustavo-freita/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/Desafios%20-%20Json/dioDelivery.json">
 					Código
 				</a>
 			</td>
@@ -35,7 +35,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">2</td>
 			<td>Acompanhando os Pedidos</td>
 			<td>
-				<a href="">
+				<a href="https://github.com/gustavo-freita/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/Desafios%20-%20Json/acompanhandoOsPedidos.json">
 					Código
 				</a>
 			</td>
@@ -45,7 +45,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">3</td>
 			<td>Comparando os Pedidos</td>
 			<td>
-				<a href="">
+				<a href="https://github.com/gustavo-freita/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/Desafios%20-%20Json/comparandoOsPedidos.json">
 					Código
 				</a>
 			</td>
@@ -55,7 +55,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">4</td>
 			<td>Avaliando Restaurantes</td>
 			<td>
-				<a href="">
+				<a href="https://github.com/gustavo-freita/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/Desafios%20-%20Json/avaliandoRestaurantes.json">
 					Código
 				</a>
 			</td>
@@ -65,7 +65,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">5</td>
 			<td>Encontando o Pedido Mais Próximo</td>
 			<td>
-				<a href="">
+				<a href="https://github.com/gustavo-freita/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/Desafios%20-%20Json/encontrandoPedidoMaisProximo.json">
 					Código
 				</a>
 			</td>
